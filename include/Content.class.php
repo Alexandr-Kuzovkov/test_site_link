@@ -28,7 +28,7 @@ class Content
         {
             foreach ( $rawLinks as $a )
             {
-                if ( self::isIgnore( $a->href ) || $a->href == '#' ) continue;
+                if ( self::isIgnore( $a->href ) || $a->href == '#' || $a->href == '' || $a->href == ' ' ) continue;
                 $protocol = ( strpos( $a->href, Http::$protocol[0] ) === 0 )? Http::$protocol[0] : false;
 				if ( !$protocol )
 					$protocol = ( strpos( $a->href, Http::$protocol[1] ) === 0 )? Http::$protocol[1] : false;
