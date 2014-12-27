@@ -1,0 +1,4 @@
+http://alliancestone.ru/app_dev.php
+http://alliancestone.ru/app_dev.php/
+http://alliancestone.ru/app_dev.php/about
+http://alliancestone.ru/app_dev.php/partners

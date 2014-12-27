@@ -1,0 +1,7 @@
+2014-12-27 22:54:01: http://alliancestone.ru/app_dev.php, 0.983, -1, 
+2014-12-27 22:54:14: http://alliancestone.ru/app_dev.php/project/2, 0.609, -1, 
+2014-12-27 22:56:40: http://alliancestone.ru/app_dev.php/project/2, 1.154, -1, 
+2014-12-27 22:58:30: http://alliancestone.ru/app_dev.php/project/2, 0.671, -1, 
+2014-12-27 23:02:58: http://alliancestone.ru/app_dev.php/project/2, 0.749, -1, 
+2014-12-27 23:03:21: http://alliancestone.ru/app_dev.php/project/2, 0.608, -1, 
+2014-12-27 23:12:57: http://alliancestone.ru/app_dev.php/project/2, 1.638, -1, 
